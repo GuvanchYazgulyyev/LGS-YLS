@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\bin\Debug\LGS YLS.exe.config
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\bin\Debug\LGS YLS.exe
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\bin\Debug\LGS YLS.pdb
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS YLS.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS_YLS.Form1.resources
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS_YLS.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS YLS.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS YLS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS YLS.exe
+C:\Users\Dell\source\repos\C# ders 6\LGS YLS\LGS YLS\obj\Debug\LGS YLS.pdb
